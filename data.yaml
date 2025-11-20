@@ -1,0 +1,6 @@
+path: A:/AI_AIM/data  # ПОЛНЫЙ путь к вашей папке data
+train: images/train
+val: images/val
+
+nc: 6  # количество классов (сколько разных целей у вас есть)
+names: ['t', 'ct', 'th', 'cth', 'tt', 'ctt']  # имена классов ТОЧНО как в LabelIMG
