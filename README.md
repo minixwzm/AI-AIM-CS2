@@ -1,0 +1,2 @@
+# AI-AIM-CS2
+ИИ AIM в CS2
